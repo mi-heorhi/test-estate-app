@@ -1,0 +1,6 @@
+export const LOAD_ALL_ESTATES = '@estate/App/LOAD_ALL_ESTATES';
+export const LOAD_ALL_ESTATES_SUCCESS = '@estate/App/LOAD_ALL_ESTATES_SUCCESS';
+export const LOAD_ALL_ESTATES_ERROR = '@estate/App/LOAD_ALL_ESTATES_ERROR';
+export const FILTER_ESTATES = '@estate/App/FILTER_ESTATES';
+export const FILTER_ESTATES_SUCCESS = '@estate/App/FILTER_ESTATES_SUCCESS';
+
